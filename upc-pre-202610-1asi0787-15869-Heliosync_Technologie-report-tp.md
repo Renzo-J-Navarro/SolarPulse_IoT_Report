@@ -838,7 +838,8 @@ En conclusión, la selección de atributos para cada entidad responde de forma d
 
    1. ### Diagrama entidad-relación lógico  {#diagrama-entidad-relación-lógico}
 
-      El diagrama de entidad-relación lógico constituye la representación estructurada de la arquitectura de datos del sistema SolarPulse IoT. En esta etapa, el modelo integra detalladamente los atributos identificados y definidos previamente (tales como datos de identificación personal, credenciales, correos electrónicos y parámetros operativos técnicos entre otros), estableciendo las claves primarias y foráneas que formalizan las dependencias y tipos de relación entre cada entidad. Esta especificación lógica permite validar la coherencia conceptual de la información antes de proceder con el diseño e implementación de la base de datos a nivel físico.  
+      El diagrama de entidad-relación lógico constituye la representación estructurada de la arquitectura de datos del sistema SolarPulse IoT. En esta etapa, el modelo integra detalladamente los atributos identificados y definidos previamente (tales como datos de identificación personal, credenciales, correos electrónicos y parámetros operativos técnicos entre otros), estableciendo las claves primarias y foráneas que formalizan las dependencias y tipos de relación entre cada entidad. Esta especificación lógica permite validar la coherencia conceptual de la información antes de proceder con el diseño e implementación de la base de datos a nivel físico.
+      ![Diagrama Entidad Relacion Logico](SolarIOTDiagramaentidad-relaciónlógico.png)
       
 
 4. # **CAPÍTULO IV: IMPLEMENTACIÓN DE BASE DE DATOS** {#capítulo-iv:-implementación-de-base-de-datos}
