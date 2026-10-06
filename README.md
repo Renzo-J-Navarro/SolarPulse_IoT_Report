@@ -171,7 +171,7 @@ Somos “Heliosync Technologie” una Startup de base tecnológica especializada
 
   <tr>
     <td>
-      <img src="assets/Chapter-1/integrante2.png" alt="Fotografia integrante 2" width="300px">
+      <img src="assets/Chapter-1/FotoMiguel.jpg" alt="Fotografia integrante 2" width="300px">
     </td>
     <td>
       <b>Codigo:</b> u20221f624<br>
