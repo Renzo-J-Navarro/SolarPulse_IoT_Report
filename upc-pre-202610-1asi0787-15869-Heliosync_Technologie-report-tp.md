@@ -831,7 +831,8 @@ En conclusión, la selección de atributos para cada entidad responde de forma d
 
    El diagrama entidad-relación conceptual utiliza la notación de Chen para representar de manera clara y visual las entidades, atributos y relaciones derivadas de las entrevistas. Se eligió esta notación debido a su alta claridad conceptual y su énfasis en los atributos y la naturaleza de las relaciones binarias y numéricas, lo que facilita la comprensión inicial del modelo antes de pasar al diseño lógico y físico.  
      
-      
+      ![Enfoque Relacional](SolarIOTEnfoque relacional.png)
+
      
    
 
