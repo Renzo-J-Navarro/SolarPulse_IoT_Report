@@ -110,52 +110,33 @@ Las entrevistas fueron registradas en video y se organizaron según el segmento 
 
 ##### Segmento Objetivo 1: Gestores de Activos Comerciales e Industriales Ligeros (Pymes)
 
-**Entrevista 1 - [Nombre del entrevistado]**
-*   **Edad:** [rellenar campo]
-*   **Distrito:**[rellenar campo]
-*   **Ocupación:** [rellenar campo]
-*   **Inicio en el video (Timing):** [rellenar campo]
-*   **Duración:** [rellenar campo]
-*   **Link de Video:** [Entrevista]()
+**Entrevista 1**
+*   **Nombres y Apellidos:** Elias Coronel
+*   **Edad:** 26 años
+*   **Ocupación:** Ingeniero Industrial
+*   **Distrito de residencia:** San Borja
+*   **Inicio en el video (Timing):** 0:01
+*   **Duración:** 6 minutos y 12 segundos
+*   **Link de Video:** https://youtu.be/FVRP54Lk8DQ
 *   **Screenshot:**
   ![Ruta_screenshot_entrevista_1](assets/Chapter-2/Screenshot_entrevista.png)
-*   **Resumen descriptivo:** [rellenar campo]
-
-**Entrevista 2 - [Nombre del entrevistado]**
-*   **Edad:** [rellenar campo]
-*   **Distrito:**[rellenar campo]
-*   **Ocupación:** [rellenar campo]
-*   **Inicio en el video (Timing):** [rellenar campo]
-*   **Duración:** [rellenar campo]
-*   **Link de Video:** [Entrevista]()
-*   **Screenshot:**
-  ![Ruta_screenshot_entrevista_2](assets/Chapter-2/Screenshot_entrevista.png)
-*   **Resumen descriptivo:** [rellenar campo]
+*   **Resumen descriptivo:** 	Elias comentó que es administrador de operaciones en una fábrica en Villa el Salvador, donde gestiona el mantenimiento con técnicos internos y externos. Mencionó que, con tres años de experiencia en energía solar, aplica un enfoque preventivo y analítico para controlar costos y evitar paradas en la producción. Explicó que priorizan equipos solares confiables y con buen soporte, gestionando la información mediante un ERP y Excel desde su laptop corporativa o celular. Señaló que su equipo se adapta bien a la tecnología, coordinando sus labores diarias de forma práctica por WhatsApp y correo. Reconoció que para auditar el impacto de los paneles necesita un historial detallado del consumo y tarifas, medido idealmente en intervalos de 15 minutos para ser preciso. También admitió que, ante cualquier falla, es vital que el sistema registre automáticamente el equipo afectado, el tiempo inactivo y la pérdida económica. Finalmente, indicó que toda intervención técnica debe quedar estrictamente documentada, detallando el responsable, los repuestos usados, las horas invertidas y el costo total de la reparación.
 
 
 ##### Segmento Objetivo 2: Familias Residenciales con Sistemas Solares Activos
 
-**Entrevista 1 - [Nombre del entrevistado]**
-*   **Edad:** [rellenar campo]
-*   **Distrito:**[rellenar campo]
-*   **Ocupación:** [rellenar campo]
-*   **Inicio en el video (Timing):** [rellenar campo]
-*   **Duración:** [rellenar campo]
-*   **Link de Video:** [Entrevista]()
+**Entrevista 1** 
+*   **Nombres y Apellidos:** Adriana Salazar
+*   **Edad:** 24 años
+*   **Ocupación:** Ingeniera Civil
+*   **Distrito de residencia:** La Molina
+*   **Inicio en el video (Timing):** 0:01
+*   **Duración:** 5 minutos y 8 segundos
+*   **Link de Video:** https://youtu.be/FVRP54Lk8DQ
 *   **Screenshot:**
   ![Ruta_screenshot_entrevista_1](assets/Chapter-2/Screenshot_entrevista.png)
-*   **Resumen descriptivo:** [rellenar campo]
-
-**Entrevista 2 - [Nombre del entrevistado]**
-*   **Edad:** [rellenar campo]
-*   **Distrito:**[rellenar campo]
-*   **Ocupación:** [rellenar campo]
-*   **Inicio en el video (Timing):** [rellenar campo]
-*   **Duración:** [rellenar campo]
-*   **Link de Video:** [Entrevista]()
-*   **Screenshot:**
-  ![Ruta_screenshot_entrevista_2](assets/Chapter-2/Screenshot_entrevista.png)
-*   **Resumen descriptivo:** [rellenar campo]
+*   **Resumen descriptivo:** La ingeniera Salazar comentó que tiene 24 años y vive con su familia en La Molina. Mencionó que, con su perfil de ingeniera civil, mantiene un enfoque práctico y minucioso para controlar el mantenimiento de su hogar, buscando resolver problemas de forma rápida. Explicó que cuenta con 12 paneles solares instalados desde hace dos años y que, al elegir, se inclina por marcas reconocidas con buenas reseñas. Señaló que gestiona los servicios de su hogar utilizando las apps del banco y de la compañía eléctrica, y que, para el sistema solar, prefiere la comodidad de su smartphone para revisar su historial. Reconoció que, para coordinar servicios técnicos, WhatsApp es su principal canal por la facilidad de enviar imágenes o videos de forma rápida. También admitió que la aplicación de sus paneles solares es relativamente sencilla, pero que algunos de sus datos técnicos pueden resultar difíciles de interpretar. Finalmente, indicó que para llevar un buen registro de los paneles, le interesa conocer su ahorro en soles, el porcentaje de energía que utiliza de los mismos y que, si estos fallan, le gustaría recibir un mensaje sencillo y detallar la gravedad del problema.
+  
 
 ##### Segmento Objetivo 3: Hogares en Transición Energética (Compradores Potenciales)
 
@@ -168,17 +149,6 @@ Las entrevistas fueron registradas en video y se organizaron según el segmento 
 *   **Link de Video:** [Entrevista]()
 *   **Screenshot:**
   ![Ruta_screenshot_entrevista_1](assets/Chapter-2/Screenshot_entrevista.png)
-*   **Resumen descriptivo:** [rellenar campo]
-
-**Entrevista 2 - [Nombre del entrevistado]**
-*   **Edad:** [rellenar campo]
-*   **Distrito:**[rellenar campo]
-*   **Ocupación:** [rellenar campo]
-*   **Inicio en el video (Timing):** [rellenar campo]
-*   **Duración:** [rellenar campo]
-*   **Link de Video:** [Entrevista]()
-*   **Screenshot:**
-  ![Ruta_screenshot_entrevista_2](assets/Chapter-2/Screenshot_entrevista.png)
 *   **Resumen descriptivo:** [rellenar campo]
 
 
