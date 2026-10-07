@@ -235,7 +235,8 @@ Somos “Heliosync Technologie” una Startup de base tecnológica especializada
     <td>
       <b>Codigo:</b> U202313231 <br>
       <b>Carrera:</b> Ingenieria de Software<br>
-      [Descripccion breve del las habilidades y aportes del integrante]
+      Cuento con conocimientos en lenguaje C++,  python, sql. Además cuento con la habilidad de ser comprometido con lo que hago y de poder anteponerme ante cualquier situación difícil de manejar tanto académico como situacional.
+
   </tr>
 
 </table>
