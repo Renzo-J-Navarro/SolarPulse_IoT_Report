@@ -238,6 +238,21 @@ Somos “Heliosync Technologie” una Startup de base tecnológica especializada
       Cuento con conocimientos en lenguaje C++,  python, sql. Además cuento con la habilidad de ser comprometido con lo que hago y de poder anteponerme ante cualquier situación difícil de manejar tanto académico como situacional.
   </tr>
 
+   <tr>
+    <th colsan="2">Flores Masias, Adriel Jose</th>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="assets/Chapter-1/integrante6.png" alt="Fotografia integrante 6" width="300px">
+    </td>
+    <td>
+      <b>Codigo:</b> U202313231 <br>
+      <b>Carrera:</b> Ingenieria de Software<br>
+      Cuento con conocimientos en lenguaje C++,  python, sql. Además cuento con la habilidad de ser comprometido con lo que hago y de poder anteponerme ante cualquier situación difícil de manejar tanto académico como situacional.
+
+  </tr>
+
 </table>
 
 ## 1.2. Solution Profile
