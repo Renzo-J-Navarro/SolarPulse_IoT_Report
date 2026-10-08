@@ -31,6 +31,7 @@
 | U20241B647 | Quispe Vargas Juan Carlos             |
 | U202410464 | Martínez Zeta José Alonso             |
 | U20221A006 | Soto Vásquez, María Fernanda          |
+| U202313231 | Flores Masias, Adriel Jose            |
 
 </div>
 
@@ -51,15 +52,16 @@
                   <td rowspan="5" style="text-align: center; vertical-align: middle;"><b>TP1</b></td>
                   <td style="vertical-align: middle;">14/09/2026</td>
                   <td>
-                    <ul style="margin: 0, padding-left: 20px;">
+                    <ul style="margin: 0; padding-left: 30px;">
                     <li>Renzo Jesus, Navarro Flores</li>
                     <li>Miguel Alejandro, Bravo Catillo Rojo</li>
                     <li>Juan Carlo, Quispe Vargas</li>
                     <li>José Alonso, Martínez Zeta</li>
                     <li>María Fernanda, Soto Vásquez</li>
+                    <li>Adriel Jose, Flores Masias</li>
                     </ul>
                   </td>
-                  <td>Desarrollo de nuestro diseño complementario de la base de datos de SolarPulse IoT en base a las entrevistas obtenidas, se plantea el diseño del diagrama de entidad-relación lógico, diagrama de entidad-relación físico y se determina que software de base de datos vamos a usar</td>
+                  <td>Desarrollo de nuestro diseño complementario de la base de datos de SolarPulse IoT en base a las entrevistas obtenidas, se plantea el diseño del diagrama de entidad-relación lógico, diagrama de entidad-relación físico y se determina que software de base de datos vamos a usar.</td>
             </tr>
         </tbody>
     </thead>
@@ -128,8 +130,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
 | Criterio específico | Acciones realizadas | Conclusiones |
 | --- | --- | --- |
-| 7.c1. Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de ingeniería de software. | **Navarro Flores, Renzo Jesus**<br>**TP1:** lorem ipsum.<br><br>**Miguel Alejandro, Bravo Catillo Rojo**<br>**TP1:** lorem ipsum.<br><br>**Juan Carlo, Quispe Vargas**<br>**TP1:** lorem ipsum.<br><br>**José Alonso, Martínez Zeta**<br>**TP1:** lorem ipsum.<br><br>**María Fernanda, Soto Vásquez**<br>**TP1:** . | **TP1:** lorem ipsum. |
-| 7.c2. Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de tecnologías de ingeniería de software. | **Navarro Flores, Renzo Jesus**<br>**TP1:** Lorem ipsum.<br><br>**Miguel Alejandro, Bravo Catillo Rojo**<br>**TP1:** lorem ipsum.<br><br>**Juan Carlo, Quispe Vargas**<br>**TP1:** lorem ipsum.<br><br>**José Alonso, Martínez Zeta**<br>**TP1:** lorem ipsum.<br><br>**María Fernanda, Soto Vásquez**<br>**TP1:** lorem ipsum. | **TP1:** lorem ipsum. |
+| 7.c1. Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de ingeniería de software. | **Navarro Flores, Renzo Jesus**<br>**TP1:** Lideró la estructuración integral de la documentación del proyecto, garantizando el cumplimiento de los estándares académicos y normativos de tipografía, gramática y formato. Asimismo, desarrolló el Capítulo IV relativo a la implementación del sistema gestor de bases de datos, así como la consolidación de las conclusiones, referencias bibliográficas bajo norma APA y la gestión de anexos técnicos.<br><br>**Miguel Alejandro, Bravo Catillo Rojo**<br>**TP1:** Diseñó el Capítulo III correspondiente a la arquitectura de datos, definiendo el catálogo formal de entidades y atributos. Modeló el enfoque relacional del sistema y diseñó el Diagrama Entidad-Relación conceptual basándose en el análisis y extracción sistemática de requerimientos derivados de las entrevistas de campo.<br><br>**Juan Carlo, Quispe Vargas**<br>**TP1:** Desarrolló la sección Startup Profile, formulando la visión, misión y propuesta de valor de la organización. Adicionalmente, estructuró los perfiles profesionales de los integrantes del equipo de ingeniería y elaboró la matriz de trazabilidad del Student Outcome.<br><br>**José Alonso, Martínez Zeta**<br>**TP1:** Elaboró la sección Solution Profile, analizando los antecedentes y la problemática del sector mediante el marco W6H. Diseñó las hipótesis de negocio a través del Lean UX Canvas y especificó la matriz de Requisitos No Funcionales garantizando atributos de calidad en escalabilidad, disponibilidad y tiempo de respuesta.<br><br>**María Fernanda, Soto Vásquez**<br>**TP1:** Estructuró el marco de recopilación de requisitos, consolidando el registro formal y el análisis cualitativo de las entrevistas aplicadas. A partir de ello, definió y categorizó la especificación formal de Requisitos Funcionales (Historias de Usuario) vinculados a sus entidades dominio.<br><br>**Adriel Jose, Flores Masias**<br>**TP1:** Diseñó e implementó la estrategia de campo para el levantamiento de información en los segmentos objetivo. Planificó la batería de preguntas de las entrevistas y coordinó la producción audiovisual y empaquetado del material de exposición validado para el informe final. | **TP1:** El equipo demostró una sólida integración de los fundamentos de la ingeniería de software al abordar de manera integral el análisis, modelado y diseño de la solución para SolarPulse IoT durante la entrega TP1. Asimismo, la rigurosa validación de requisitos, el cumplimiento de las normativas del informe y la correcta estructuración conceptual, lógica y relacional de la arquitectura de datos garantizan una base técnica de alto nivel académico y alineada con las mejores prácticas del sector. |
+| 7.c2. Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de tecnologías de ingeniería de software. | **Navarro Flores, Renzo Jesus**<br>**TP1:** Comprendí la importancia de la mejora continua al estructurar integralmente el proyecto, asegurando la calidad y el rigor técnico en la documentación y en la validación del capítulo final.<br><br>**Miguel Alejandro, Bravo Catillo Rojo**<br>**TP1:** Asumí el reto de investigar y profundizar en el diseño conceptual y relacional de bases de datos, reconociendo la necesidad de actualizar mis competencias para modelar requerimientos complejos.<br><br>**Juan Carlo, Quispe Vargas**<br>**TP1:** Valoré la necesidad del aprendizaje autónomo al investigar a fondo la definición de perfiles de startup y modelos de negocio tecnológicos aplicados a la ingeniería.<br><br>**José Alonso, Martínez Zeta**<br>**TP1:** Identifiqué la importancia de mantenerme actualizado en metodologías de diseño y análisis de requerimientos no funcionales para asegurar la viabilidad de la solución.<br><br>**María Fernanda, Soto Vásquez**<br>**TP1:** Desarrollé habilidades de análisis crítico al estructurar el levantamiento y procesamiento de entrevistas, reconociendo el valor del aprendizaje continuo en la ingeniería de requisitos. <br><br>**Adriel Jose, Flores Masias**<br>**TP1:** Comprendí la necesidad de adaptabilidad y búsqueda constante de información técnica para validar perfiles de usuario y diseñar presentaciones efectivas. | **TP1:** A través del trabajo colaborativo en el TP1, los integrantes reconocieron y ejercitaron el aprendizaje autónomo al investigar y profundizar en metodologías Lean UX, perfiles de negocio y modelado relacional de datos aplicados a la solución. |
 
 <div style="page-break-before: always;"></div>
 
@@ -171,7 +173,7 @@ Somos “Heliosync Technologie” una Startup de base tecnológica especializada
 
   <tr>
     <td>
-      <img src="assets/Chapter-1/integrante2.png" alt="Fotografia integrante 2" width="300px">
+      <img src="assets/Chapter-1/FotoMiguel.png" alt="Fotografia Miguel Bravo" width="300px">
     </td>
     <td>
       <b>Codigo:</b> u20221f624<br>
@@ -180,46 +182,60 @@ Somos “Heliosync Technologie” una Startup de base tecnológica especializada
   </tr>
 
   <tr>
-    <th colsan="2">[Nombre del integrante 3]</th>
+    <th colsan="2">Martínez Zeta, José Alonso</th>
   </tr>
 
   <tr>
     <td>
-      <img src="assets/Chapter-1/integrante3.png" alt="Fotografia integrante 3" width="300px">
+      <img src="assets/Chapter-1/FotoAlonso.png" alt="Fotografia Jose Martinez" width="300px">
     </td>
     <td>
-      <b>Codigo:</b> [Codigo integrante 3]<br>
+      <b>Codigo:</b> U202410464<br>
       <b>Carrera:</b> Ingenieria de Software<br>
-      [Descripccion breve del las habilidades y aportes del integrante]
+      Poseo conocimientos en los lenguajes de programación C++, Python, y JS. Tambien tengo una capacidad analita buena, creatividad y adaptabilidad, los cuales me ayudaran al desarrollo de mi carrera y experiencia.
   </tr>
 
 
   <tr>
-    <th colsan="2">[Nombre del integrante 4]</th>
+    <th colsan="2">Soto Vásquez, María Fernanda</th>
   </tr>
 
   <tr>
     <td>
-      <img src="assets/Chapter-1/integrante4.png" alt="Fotografia integrante 4" width="300px">
+      <img src="assets/Chapter-1/FotoMaria.png" alt="Fotografia Maria Soto" width="300px">
     </td>
     <td>
-      <b>Codigo:</b> [Codigo integrante 4]<br>
+      <b>Codigo:</b> U20221a006<br>
       <b>Carrera:</b> Ingenieria de Software<br>
-      [Descripccion breve del las habilidades y aportes del integrante]
+      Me considero una estudiante comprometida y responsable, con muchas ganas de seguir aprendiendo y creciendo tanto a nivel académico como personal. Me gusta trabajar en equipo, aportar ideas y apoyar a mis compañeros para lograr objetivos en conjunto.
   </tr>
 
   <tr>
-    <th colsan="2">[Nombre del integrante 5]</th>
+    <th colsan="2">Quispe Vargas, Juan Carlos</th>
   </tr>
 
   <tr>
     <td>
-      <img src="assets/Chapter-1/integrante5.png" alt="Fotografia integrante 5" width="300px">
+      <img src="assets/Chapter-1/Foto Juan.png" alt="Fotografia Juan Quispe" width="300px">
     </td>
     <td>
-      <b>Codigo:</b> [Codigo integrante 5]<br>
+      <b>Codigo:</b> U20241N647<br>
       <b>Carrera:</b> Ingenieria de Software<br>
-      [Descripccion breve del las habilidades y aportes del integrante]
+      Conocimientos en C++, Python, estructuras de datos, algoritmos, bases de datos, redes, arquitectura de computadores y desarrollo de software. Capacidad para resolver problemas, analizar requerimientos y desarrollar proyectos académicos aplicando fundamentos de ingeniería de software.
+  </tr>
+
+   <tr>
+    <th colsan="2">Flores Masias, Adriel Jose</th>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="assets/Chapter-1/Foto Adriel.png" alt="Fotografia Adriel Flores" width="300px">
+    </td>
+    <td>
+      <b>Codigo:</b> U202313231<br>
+      <b>Carrera:</b> Ingenieria de Software<br>
+      Cuento con conocimientos en lenguaje C++,  python, sql. Además cuento con la habilidad de ser comprometido con lo que hago y de poder anteponerme ante cualquier situación difícil de manejar tanto académico como situacional.
   </tr>
 
 </table>
