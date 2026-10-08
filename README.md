@@ -26,10 +26,10 @@
 
 | Código     | Apellidos y Nombres                   |
 |------------|---------------------------------------|
-| U20211A574 | Navarro Flores Renzo Jesus            |
-| U20221f624 | Bravo Castillo Rojo Miguel Alejandro  |
-| U20241B647 | Quispe Vargas Juan Carlos             |
-| U202410464 | Martínez Zeta José Alonso             |
+| U20211A574 | Navarro Flores, Renzo Jesus            |
+| U20221f624 | Bravo Castillo, Rojo Miguel Alejandro  |
+| U20241B647 | Quispe Vargas, Juan Carlos             |
+| U202410464 | Martínez Zeta, José Alonso             |
 | U20221A006 | Soto Vásquez, María Fernanda          |
 | U202313231 | Flores Masias, Adriel Jose            |
 
